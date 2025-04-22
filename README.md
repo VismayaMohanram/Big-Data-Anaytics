@@ -38,4 +38,3 @@ Investigated the potential of TensorFlow to enhance accuracy in machine learning
 
 Leveraged comprehensive data analysis, visualization, and diverse machine learning techniques to achieve significant model accuracies, with the Neural Network demonstrating the highest accuracy.
 
-Kaggle datset: https://www.kaggle.com/datasets/iamhungundji/covid19-symptoms-checker
