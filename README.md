@@ -5,10 +5,7 @@
 
 ###  **Programming Language** - Python
 
-### **Platform**
-- **Google Colab** – Cloud-hosted Python environment with built-in support for GPUs, ideal for collaboration and large-scale data processing.
-
-### 🧠 **Machine Learning & Deep Learning**
+### **Machine Learning & Deep Learning**
 - **Scikit-learn** – Core machine learning library for implementing:
   - **Logistic Regression**
   - **K-Nearest Neighbors (KNN)**
@@ -20,21 +17,19 @@
   - Pipeline optimization
   - Hyperparameter tuning
 
-### 📊 **Data Manipulation & Analysis**
+###  **Data Manipulation & Analysis**
 - **Pandas** – For efficient data wrangling, cleaning, and tabular analysis.
 - **NumPy** – For numerical computing and matrix operations.
 
-### 📈 **Data Visualization**
+###  **Data Visualization**
 - **Matplotlib** – For static, animated, and interactive plots.
 - **Seaborn** – For advanced statistical visualizations and correlation heatmaps.
 
-### 🗃️ **Database / Dataset**
+###  **Database / Dataset**
 - **Flat File Dataset (.CSV)** – All data was processed directly from CSV files using `pandas`.
   - **COVID-19 Symptoms Checker Dataset**
-    - 📥 [Kaggle Dataset](https://www.kaggle.com/datasets/iamhungundji/covid19-symptoms-checker)
-    - 📊 Based on data provided by the **World Health Organization (WHO)**
-
-> 💡 No external database systems (e.g., SQL, NoSQL) were used. All data was handled in-memory using pandas.
+    - [Kaggle Dataset](https://www.kaggle.com/datasets/iamhungundji/covid19-symptoms-checker)
+    - Based on data provided by the **World Health Organization (WHO)**
 
 
 Implemented a comparative analysis of ML algorithms on a WHO dataset, evaluating performance, speed, and accuracy.
